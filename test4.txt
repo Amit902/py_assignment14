@@ -1,0 +1,5 @@
+"At this point I'm not sure what to do next"
+"I feel the most logical way to approach it would be to first count the lines"
+"count the words within each line, and then count the number of characters within each word"
+"But one of the issues I ran into was trying to perform all of the necessary functions at once"
+"without having to re-open the file to perform each function seperately"
